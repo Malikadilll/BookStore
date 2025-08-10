@@ -1,6 +1,6 @@
 # 📚 Online Book Store System
 
-This is a full-stack MongoDB-based Online Book Store Management System built with **Express.js**, **MongoDB**, and **Vanilla JS**. It supports managing books, customers, orders, and payments — with image upload support for books.
+This is a full-stack MongoDB-based Online Book Store Management System built with **Express.js**, **MongoDB**, and **Vanilla JS**. It supports managing books, customers, orders, and payments.
 
 ---
 
@@ -10,7 +10,6 @@ This is a full-stack MongoDB-based Online Book Store Management System built wit
 - 👥 Manage Customers
 - 📦 Manage Orders (Place, Edit, Delete)
 - 💳 Manage Payments (Create, Edit, Delete)
-- 🖼️ Upload and view book images
 - 🔗 Relationships between data (e.g., orders linked to customers and books)
 
 ---
